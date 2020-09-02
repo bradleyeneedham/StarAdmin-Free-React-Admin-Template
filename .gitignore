@@ -1,0 +1,8 @@
+# NodeJS specific #
+template/demo_1/.nyc_output/
+template/demo_1/coverage/
+template/demo_1/node_modules/
+template/demo_1/npm-debug.log
+template/demo_1/package-lock.json
+template/demo_1/yarn.lock
+template/demo_1/test/*.log
